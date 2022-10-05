@@ -1682,3 +1682,36 @@ cd Development/flatiron_content/phase_2
 npx create-react-app cy-comme
 cd cy-comme
 code .
+npm install
+npm install @mui/material-ui/core @material-ui/icons
+nvm use 16.0.0
+npm install @mui/material @emotion/react @emotion/styled
+nvm use 16.10.0
+nvm install 16.10.0
+nvm use 16.0.0
+npm install @material-ui/core @material-ui/icons
+nvm use 16.0.0
+nvm use 16.10.0
+npm install @material-ui/core @material-ui/icons
+npm install @material-ui/core @material-ui/icons --legacy-peer-deps
+npm start
+nvm use 16.0.0
+npm start
+nvm use 16.0.0
+nvm use 16.10.0
+npm start
+nvm use 16.0.0
+npm start
+sudo gedit /etc/sysctl.conf
+$ npm i -g --save react-scripts
+killall node
+node -v
+nvm use 16.0.0
+npm start
+nvm use 16.0.0
+npm start
+nvm use 16.0.0
+npm start
+node -v
+npm use 116.0.0
+npm use 16.0.0
