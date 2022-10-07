@@ -1715,3 +1715,57 @@ npm start
 node -v
 npm use 116.0.0
 npm use 16.0.0
+git status
+git stash
+git reset --hard
+git clean -fxd
+ls
+cd ..
+nvm use 16.0.0
+npm install @material-ui/core @material-ui/icons
+npm install @material-ui/core @material-ui/icons  --legacy-peer-deps
+npm start
+sudo dmidecode
+npm start
+nvm use 16.0.0
+npm start
+npm run build
+ls
+cd Development
+cd flatiron_content/phase_2
+ls
+cd react-hooks-state-events-mini-project
+code .
+nvm use 16.0.0
+npm test
+learn-lab test
+cd Development/flatiron_content/phase_2
+ls
+cd react-hooks-react-router-programmatic-navigation
+code .
+npm install
+npm start
+nvm use 16.0.0
+npm start
+learn-lab test
+cd ..
+clear
+git clone https://github.com/Masai11/react-hooks-react-router-routes-lab.git
+ls
+cd react-hooks-react-router-routes-lab
+code .
+npm test
+npm install
+npm test
+learn-lab test
+cd ..
+clear
+ls
+git clone https://github.com/Masai11/react-hooks-use-effect-lab.git
+ls
+cd react-hooks-use-effect-lab
+code .
+npm install
+learn-lab test
+npms start
+npm start
